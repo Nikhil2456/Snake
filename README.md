@@ -18,3 +18,4 @@ Snake 3d V0.1
 9) Camera is setup at -45% X-axis.
 10) Game get pause on pressing keys other then controls one. (Might have a bug will fix in next update)
    
+Video gameplay = https://drive.google.com/file/d/1Gis9dx2sS6cW86DRMDdFJYQFHCkFy_kH/view?usp=sharing
